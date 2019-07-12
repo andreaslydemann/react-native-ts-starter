@@ -1,0 +1,48 @@
+{
+  "name": "react-native-ts-starter",
+  "main": "node_modules/expo/AppEntry.js",
+  "scripts": {
+    "start": "expo start",
+    "eject": "expo eject",
+    "android": "expo android",
+    "ios": "expo ios"
+  },
+  "dependencies": {
+    "@expo/react-native-action-sheet": "^2.1.0",
+    "@expo/vector-icons": "^10.0.1",
+    "axios": "^0.18.0",
+    "color": "^3.1.0",
+    "expo": "^33.0.0",
+    "expo-asset": "^5.0.1",
+    "expo-linear-gradient": "~5.0.1",
+    "expo-localization": "~5.0.1",
+    "i18n-js": "^3.2.1",
+    "react": "16.8.3",
+    "react-native": "https://github.com/expo/react-native/archive/sdk-33.0.0.tar.gz",
+    "react-native-datepicker": "^1.7.2",
+    "react-native-popup-dialog": "^0.18.2",
+    "react-navigation": "^3.11.0",
+    "react-redux": "^6.0.1",
+    "redux-saga": "^1.0.2",
+    "styled-components": "^4.2.0"
+  },
+  "devDependencies": {
+    "@types/color": "^3.0.0",
+    "@types/expo": "^32.0.7",
+    "@types/i18n-js": "^3.0.1",
+    "@types/react": "^16.8.8",
+    "@types/react-native": "^0.57.40",
+    "@types/react-native-datepicker": "^1.7.0",
+    "@types/react-native-popup-dialog": "^0.16.2",
+    "@types/react-navigation": "^3.0.5",
+    "@types/react-redux": "^7.0.3",
+    "@types/styled-components": "^4.1.12",
+    "babel-plugin-module-resolver": "^3.2.0",
+    "babel-preset-expo": "^5.1.0",
+    "prettier": "1.16.4",
+    "redux-devtools-extension": "^2.13.8",
+    "tslint-config-prettier": "1.18.0",
+    "typescript": "^3.3.3333"
+  },
+  "private": true
+}
